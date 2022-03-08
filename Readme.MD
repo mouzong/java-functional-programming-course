@@ -5,6 +5,8 @@ This course is all about teaching all the basics you need to know in ordre to ge
 
 We are going to cover the following topics in this little paper.
 
+### Imperative Programming
+
 ### Functional Interfaces in Java
 * Functions
 * BiFunctions
@@ -13,3 +15,6 @@ We are going to cover the following topics in this little paper.
 * BiConsumers
 * Suppliers
 * Predicates
+* BiPredicates
+
+### Streams
